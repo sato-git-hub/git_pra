@@ -6,8 +6,8 @@ _Commit directly to the main branch_
 
 `$('.prev').hide();`  
 '''
-$('.prev').hide()
-$('.prev').hide();
+('.prev').hide()
+('.prev').hide();
 '''
 
 
