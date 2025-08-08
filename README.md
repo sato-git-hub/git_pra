@@ -1,1 +1,3 @@
-_git_practice_  
+#git_practice  
+__Commit directly to the main branch__
+_Commit directly to the main branch_
